@@ -1,4 +1,4 @@
-git clone https://github.com/digeler/gettoke.git
+
 cd gettoke
 Import-Module ./gettoke.psm1
 $t = Get-AuthenticationResult
