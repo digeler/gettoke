@@ -1,5 +1,5 @@
 
-cd gettoke
+
 Import-Module ./gettoke.psm1
 $t = Get-AuthenticationResult
 $t.AccessToken > token.txt
