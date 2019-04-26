@@ -1,6 +1,6 @@
 Add-Type -Path "Microsoft.IdentityModel.Clients.ActiveDirectory\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll"
 Add-Type -Path "Microsoft.IdentityModel.Clients.ActiveDirectory\Microsoft.IdentityModel.Clients.ActiveDirectory.dll"
-Add-type -Path "Newtonsoft.Json\Newtonsoft.Json.dll
+Add-type -Path "Newtonsoft.Json\Newtonsoft.Json.dll"
 
 function Get-AuthenticationResult
 {
